@@ -30,10 +30,6 @@ This repository contains OpenCV-based computer vision projects developed as part
 ```bash
 python <script_name>.py
 
-## Setup and Usage
-Clone the repository:  
-   git clone https://github.com/Kashma-Yaz/NaanMudhalvanOpenCV_Projects.git
-
 
 
 
