@@ -19,6 +19,12 @@ This repository contains OpenCV-based computer vision projects developed as part
 - *Description:* Uses video and sensor data to evaluate athletes' movements, tactics, and performance for training and strategic improvements.
 - *Input:* Video footage or live feed from single or multi-camera setups during training or matches.
 - *Output:* Player tracking, positioning, movement trajectories, and heatmaps over time.
+
+### Author Information
+
+- Name: S Karishma Ram  
+- Institution: Arunachala College of Engineering for Women  
+- Department: III Year, Artificial Intelligence and Data Science
   
 ## How to Run
 ```bash
@@ -28,10 +34,6 @@ python <script_name>.py
 Clone the repository:  
    git clone https://github.com/Kashma-Yaz/NaanMudhalvanOpenCV_Projects.git
 
-### Author Information
 
-- Name: S Karishma Ram  
-- Institution: Arunachala College of Engineering for Women  
-- Department: III Year, Artificial Intelligence and Data Science
 
 
