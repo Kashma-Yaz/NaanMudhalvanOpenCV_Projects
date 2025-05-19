@@ -34,7 +34,3 @@ This repository contains OpenCV-based computer vision projects developed as part
 ## How to Run
 ```bash
 python <script_name>.py
-
-
-
-
