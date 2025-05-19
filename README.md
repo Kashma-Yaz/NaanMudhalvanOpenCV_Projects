@@ -8,20 +8,20 @@ This repository contains OpenCV-based computer vision projects developed as part
 - *Description:* Identifies or verifies individuals based on facial features for secure access control, surveillance, or identity verification.
 - *Input:* Images or video streams from security cameras or webcams (RGB).
 - *Output:* Face detection with bounding boxes around detected faces.
-*[View Project »](./Facial_Recognition_System)*
+*[View Project »](./Facial Recognition System for Activity)*
 
 ### 2. Healthcare Imaging Analysis
 - *Description:* Processes medical images (such as hand X-rays, MRIs, CT scans) to assist with diagnosis, treatment planning, and disease monitoring using image processing and machine learning.
 - *Input:* Medical images (modalities include X-ray, MRI, CT, Ultrasound, etc.) in formats like DICOM, JPEG, PNG, TIFF.  
 - *Example Input:* Hand X-ray images.
 - *Output:* Detection and localization of abnormalities (e.g., lesions, tumors, fractures) using bounding boxes or segmentation masks.
-*[View Project »](./Facial_Recognition_System)*
+*[View Project »](./Healthcare Imaging Analysis)*
 
 ### 3. Sports Performance Analysis
 - *Description:* Uses video and sensor data to evaluate athletes' movements, tactics, and performance for training and strategic improvements.
 - *Input:* Video footage or live feed from single or multi-camera setups during training or matches.
 - *Output:* Player tracking, positioning, movement trajectories, and heatmaps over time.
-*[View Project »](./Facial_Recognition_System)*
+*[View Project »](./Sports Performance Analysis)*
 
 ## Requirements
 - Python 3.x
