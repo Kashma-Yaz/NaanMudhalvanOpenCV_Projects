@@ -1,30 +1,38 @@
-# NaanMudhalvanOpenCV_Projects
-This repository contains multiple OpenCV-based Python projects developed as part of the Naan Mudhalvan program.
+# Naan Mudhalvan OpenCV Projects
 
-## Projects Included
+This repository contains OpenCV-based computer vision projects developed as part of the Naan Mudhalvan training program. Each project applies image processing and AI techniques to solve real-world problems in healthcare, security, and sports.
 
-### 1. Facial Recognition System for Activity Monitoring
-- Uses OpenCV's face recognition to detect and track faces.
-- Useful for classroom/activity monitoring and attendance.
+## Projects Overview
 
-### 2. Hand X-ray Image Analysis
-- Analyzes hand X-ray images to detect abnormalities.
-- Uses contour detection and thresholding.
+### 1. Facial Recognition System for Security
+- *Description:* Identifies or verifies individuals based on facial features for secure access control, surveillance, or identity verification.
+- *Input:* Images or video streams from security cameras or webcams (RGB).
+- *Output:* Face detection with bounding boxes around detected faces.
 
-### 3. Healthcare Imaging Analysis
-- Applies image processing techniques to medical images.
-- Aims to highlight anomalies or key regions in diagnostic images.
+### 2. Healthcare Imaging Analysis
+- *Description:* Processes medical images (such as hand X-rays, MRIs, CT scans) to assist with diagnosis, treatment planning, and disease monitoring using image processing and machine learning.
+- *Input:* Medical images (modalities include X-ray, MRI, CT, Ultrasound, etc.) in formats like DICOM, JPEG, PNG, TIFF.  
+- *Example Input:* Hand X-ray images.
+- *Output:* Detection and localization of abnormalities (e.g., lesions, tumors, fractures) using bounding boxes or segmentation masks.
 
-### 4. Sports Performance Analysis
-- Uses motion tracking and image processing to evaluate athletic performance.
-- Can assist coaches or athletes with performance review.
-
-## Requirements
-- Python 3.x
-- OpenCV (`pip install opencv-python`)
-- Matplotlib (`pip install matplotlib`)
-- NumPy (`pip install numpy`)
+### 3. Sports Performance Analysis
+- *Description:* Uses video and sensor data to evaluate athletes' movements, tactics, and performance for training and strategic improvements.
+- *Input:* Video footage or live feed from single or multi-camera setups during training or matches.
+- *Output:* Player tracking, positioning, movement trajectories, and heatmaps over time.
 
 ## How to Run
 ```bash
 python <script_name>.py
+
+## Author Information
+
+- **Name:** S Karishma Ram  
+- **Institution:** Arunachala College of Engineering for Women  
+- **Department:** III Year, Artificial Intelligence and Data Science
+
+## Setup and Usage
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/Kashma-Yaz/NaanMudhalvanOpenCV_Projects.git
+
