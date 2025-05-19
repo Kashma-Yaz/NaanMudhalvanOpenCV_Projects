@@ -26,9 +26,9 @@ python <script_name>.py
 
 ## Author Information
 
-- **Name:** S Karishma Ram  
-- **Institution:** Arunachala College of Engineering for Women  
-- **Department:** III Year, Artificial Intelligence and Data Science
+- Name: S Karishma Ram  
+- Institution: Arunachala College of Engineering for Women  
+- Department: III Year, Artificial Intelligence and Data Science
 
 ## Setup and Usage
 
