@@ -27,9 +27,11 @@ This repository contains OpenCV-based computer vision projects developed as part
 - NumPy (pip install numpy)
   
 ### Author Information
-- Name: S Karishma Ram  
-- Institution: Arunachala College of Engineering for Women  
-- Department: III Year, Artificial Intelligence and Data Science
+- Name: S Karishma Ram
+- Register Number: 960222243051
+- Year : III
+- Department: Artificial Intelligence and Data Science
+- Institution: Arunachala College of Engineering for Women 
   
 ## How to Run
 ```bash
