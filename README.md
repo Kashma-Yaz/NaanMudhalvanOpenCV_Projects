@@ -20,8 +20,13 @@ This repository contains OpenCV-based computer vision projects developed as part
 - *Input:* Video footage or live feed from single or multi-camera setups during training or matches.
 - *Output:* Player tracking, positioning, movement trajectories, and heatmaps over time.
 
+## Requirements
+- Python 3.x
+- OpenCV (pip install opencv-python)
+- Matplotlib (pip install matplotlib)
+- NumPy (pip install numpy)
+  
 ### Author Information
-
 - Name: S Karishma Ram  
 - Institution: Arunachala College of Engineering for Women  
 - Department: III Year, Artificial Intelligence and Data Science
